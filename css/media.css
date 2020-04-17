@@ -1,0 +1,15 @@
+@media (max-width: 1025px) {
+	.container {
+		max-width: 90%;
+	}
+}
+@media (max-width: 320px) {
+	.hero-text {
+		display: block;
+		max-width: 100%;
+	}
+	.hero-avatar {
+		display: block;
+		max-width: 100%;
+	}
+}
